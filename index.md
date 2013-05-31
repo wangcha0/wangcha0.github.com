@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beyond The Huge
-tagline: Supporting tagline
+tagline: default
 ---
 
 Here's a sample "posts list".
